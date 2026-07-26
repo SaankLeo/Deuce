@@ -1,7 +1,7 @@
 package main
 
-func main() {
+/* func main() {
 	runtime := NewRuntime()
 	runtime.Run()
 
-}
+} */
