@@ -7,6 +7,7 @@ import(
 
 func Worker(id int,wg *sync.WaitGroup){
 	defer wg.Done()
+	
 
 	fmt.Println("Worker", id, "started")
 
